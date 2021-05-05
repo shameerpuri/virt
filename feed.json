@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "virtual.spss.com",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/virt",
+    "feed_url": "https://shameerpuri.github.io/virt/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shameer"
+    },
+    "items": [
+    ]
+}
